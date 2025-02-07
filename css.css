@@ -1,0 +1,50 @@
+body{
+    background-image:url(images/plain-one-colour-single-pink-solid-color-3840x2160-c-fbcddb-f-24.svg) ;
+    background-repeat: no-repeat;   
+
+    background-attachment: local;
+    background-size: cover;
+     
+    
+}
+#box1{position: relative;
+    top: 10px;
+left: 450px;
+}
+#box2{
+    position: relative;
+    top: 10px;
+left: 450px;
+}
+#box3{
+    position: relative;
+    top: 10px;
+left: 450px;
+}
+#box4{
+    position: relative;
+    top: 10px;
+left: 450px;
+}
+#box5{
+    position: relative;
+    top: 10px;
+left: 450px;
+}
+button{
+
+    font-size: 40px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: beige;
+display: block;
+margin:auto ;
+}
+h1{
+    font-size: 50px;
+    text-align: top 30px;
+left: 450px;
+}
+#btn1{font-size: 25px;}
+#btn2{font-size: 15px;}
+#btn3{font-size: 5px;}
